@@ -1,0 +1,127 @@
+@import url(https://fonts.googleapis.com/css?family=Petit+Formal+Script:regular);
+
+.body {
+  background-color: white !important;
+  max-width: 100%;
+}
+
+* {
+  scroll-padding: 40px;
+}
+
+.nav {
+  background-color: #219c90 !important;
+}
+.navbar-nav .nav-item {
+  margin-right: 20px;
+}
+
+.navbar-brand img {
+  box-shadow: #219c90;
+}
+#informasi {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.judul-informasi h2 {
+  margin-bottom: 3rem;
+  font-family: 'Petit Formal Script', cursive;
+  color: #219c90;
+  font-weight: bold;
+}
+
+#anggotaKelompok {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-top: 20px;
+}
+.container {
+  display: flex;
+}
+
+.image-header img {
+  display: block;
+}
+
+#prediksi_submit {
+  background: #333;
+  color: whitesmoke;
+}
+
+#hasil_prediksi img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 5px;
+  margin-bottom: 20px;
+}
+
+.btn-mulai {
+  text-decoration: none;
+  padding: 10px 40px;
+  border-radius: 8px;
+  background-color: #219c90 !important;
+  font-size: 20px;
+}
+
+.btn-mulai:hover {
+  background-color: #28c7b7 !important;
+}
+
+#hasil_prediksi h5 {
+  font-size: 17px;
+  line-height: 1.375em;
+  color: #333333;
+  font-weight: 300;
+  text-align: left;
+  margin-top: 20px;
+}
+
+#halamanku {
+  margin-top: 60px;
+  text-align: center;
+}
+
+.nav-link {
+  border-radius: 8px;
+  padding: 0 20px;
+}
+
+.nav-link.active,
+.nav-link:hover {
+  background-color: rgb(255, 255, 255) !important;
+  color: black !important;
+}
+
+footer {
+  background-color: #fafafa;
+  padding: 10px 0;
+}
+
+.text-name-brand {
+  font-size: 50px;
+}
+
+.headline-section {
+  border-bottom: 2px solid #219c90;
+  width: max-content;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  margin-bottom: 20px;
+  margin-top: 40px;
+}
+
+.headline-section h4 {
+  font-size: 18px;
+  color: #666464;
+}
+
+#hasil_prediksi {
+  margin-top: 40px;
+}
