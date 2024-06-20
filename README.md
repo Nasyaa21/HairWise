@@ -1,4 +1,4 @@
-# HairWise
+# HairWise #
 
 Selamat datang di HairWise - Aplikasi revolusioner yang membantu
 Anda menemukan gaya rambut yang sempurna sesuai dengan tipe rambut Anda.
@@ -11,4 +11,7 @@ Straight, Curly, Wavy
 2.	Sedangkan pada tombol aplikasi, berisi tempat untuk melakukan prediksi jenis rambut berdasarkan gambar yang diinput oleh pengguna. Pengguna hanya perlu mengupload foto pada bar upload foto dan menekan tombol Prediksi.
 3.	Selanjutnya Aplikasi akan melakukan pemerosesan yang akan menentukan tipe rambut Anda dan rekomendasi model potongan rambut berdasarkan jenis rambut. Hasil pemrosesan akan muncul disebelah kanan tempat Anda mengupload foto.
 4.	Pada tombol kelompok, berisi informasi anggota yang telah membangun serta merancang aplikasi serta beserta biodatanya.
-5.  Di bagian bawah website, terdapat link yang terhubung dengan video presentasi tentang HairWise yang di upload ke youtube 
+5.  Di bagian bawah website, terdapat link yang terhubung dengan video presentasi tentang HairWise yang di upload ke youtube
+
+# Video Demo #
+ [HairWise Demo](https://youtu.be/gGQNmzs-Kuo?si=mmwr0AkljL1UeeLD) 
