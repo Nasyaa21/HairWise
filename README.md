@@ -15,3 +15,6 @@ Straight, Curly, Wavy
 
 # Video Demo #
  [HairWise Demo](https://youtu.be/gGQNmzs-Kuo?si=mmwr0AkljL1UeeLD) 
+
+# Link Model Collab #
+ [HairWise Demo](https://colab.research.google.com/drive/1z_LmMRlF3unNOUniTwd-agOf9U1MfFS3?usp=sharing)
